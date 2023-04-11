@@ -11,7 +11,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.png)
--[Go to live site] (https://courageous-gumdrop-29dea4.netlify.app/)
+- [Go to live site](https://courageous-gumdrop-29dea4.netlify.app/)
 - Live Site URL: [Go to live site](https://boisterous-melomakarona-5c0839.netlify.app/)
 
 ## My process
